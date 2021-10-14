@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anne-yoo :)
+- 👋 Hi, I’m Anne :)
 - 👀 I’m interested in bioinformatics!
 
 <!---
